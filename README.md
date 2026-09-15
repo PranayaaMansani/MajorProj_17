@@ -21,9 +21,7 @@
 
 </div>
 
-<p align="center">
-    <a href="./README_zh.md"><strong>中文說明</strong></a>
-</p>
+
 
 ---
 
