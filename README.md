@@ -172,6 +172,4 @@ VisionAssist AI is built with privacy as a priority:
 -   **Secure Storage**: Your settings and API keys are stored only in your browser's local storage, inaccessible by websites.
 -   **Local AI Option**: When using Local Mode, all data and AI processing remain entirely on your machine. Nothing is sent to the cloud.
 
-## License
 
-This project is licensed under the [MIT License](./LICENSE).
